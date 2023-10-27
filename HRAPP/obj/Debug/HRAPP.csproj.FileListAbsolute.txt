@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Andrey\PROGRAMACION\Progra 2-c#\Examen 1\ExamenI\HRAPP\HRAPP\bin\Debug\HRAPP.exe.config
+C:\Users\Usuario\Desktop\Andrey\PROGRAMACION\Progra 2-c#\Examen 1\ExamenI\HRAPP\HRAPP\bin\Debug\HRAPP.exe
+C:\Users\Usuario\Desktop\Andrey\PROGRAMACION\Progra 2-c#\Examen 1\ExamenI\HRAPP\HRAPP\bin\Debug\HRAPP.pdb
+C:\Users\Usuario\Desktop\Andrey\PROGRAMACION\Progra 2-c#\Examen 1\ExamenI\HRAPP\HRAPP\obj\Debug\HRAPP.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Andrey\PROGRAMACION\Progra 2-c#\Examen 1\ExamenI\HRAPP\HRAPP\obj\Debug\HRAPP.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Andrey\PROGRAMACION\Progra 2-c#\Examen 1\ExamenI\HRAPP\HRAPP\obj\Debug\HRAPP.exe
+C:\Users\Usuario\Desktop\Andrey\PROGRAMACION\Progra 2-c#\Examen 1\ExamenI\HRAPP\HRAPP\obj\Debug\HRAPP.pdb
